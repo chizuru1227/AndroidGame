@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kadai06_NH_IH14B_28</string>
+    <string name="title">Wall hitting game</string>
+    <string name="start">START</string>
+    <string name="message">GAME OVER</string>
+    <string name="clear">GAME CLEAR</string>
+    <string name="score">score:0</string>
+    <string name="retry">RETRY</string>
+</resources>
